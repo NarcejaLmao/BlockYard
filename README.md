@@ -1,7 +1,7 @@
 A Minecraft Based survival game for Android.
 
 # BlockYard
-BlockYard is a completely free, community driven ROCKNIX, KNULLI and Android project based on Minecraft. What makes this project stand out is that it is entirely based around what the community wants, so no needless updates that are pointless.
+BlockYard is a completely free, community driven ROCKNIX, KNULLI and other Linux Distributions game based on Minecraft. What makes this project stand out is that it is entirely based around what the community wants, so no needless updates that are pointless.
 
 # What is planned
 The Aether<br>
